@@ -7,6 +7,10 @@ function About(){
         <p>This is About Us Page of our awesome App</p>
         <p>And here we arelearning about roter</p>
         <Link to="/">Go to Home page</Link>
+
+
+        <li><Link to="/user/anil">Anil</Link></li>
+        <li><Link to="/user/peter">peter</Link></li>
         </>
     )
 }
