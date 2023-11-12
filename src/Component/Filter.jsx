@@ -2,8 +2,8 @@ import { useSearchParams } from "react-router-dom";
 
 function Filter(){
     const [searchParams,setSearchParams] = useSearchParams();
-    console.warn(searchParams.get("age"));
-    console.warn(searchParams.get("city"));
+    // console.warn(searchParams.get("age"));
+    // console.warn(searchParams.get("city"));
     const age = (searchParams.get("age"));
     const city = (searchParams.get("city"));
     return(
