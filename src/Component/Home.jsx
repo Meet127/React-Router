@@ -6,6 +6,7 @@ function Home() {
             navigate(url)
     }
 
+
     return (
         <>
             <h1>Home Page.</h1>

@@ -3,7 +3,7 @@ import "./App.css";
 import Home from "./Component/Home";
 import About from "./Component/About";
 import Navbar from "./Component/Navbar";
-import Page404 from "./Component/page404";
+// import Page404 from "./Component/page404";
 import User from "./Component/User";
 import Filter from "./Component/Filter";
 import Contact from "./Component/Contact";
